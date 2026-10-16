@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Choose the action you want to enforce --></help>
+    <label><!-- Target Action --></label>
+    <name>copado__TargetAction__c</name>
+    <picklistValues>
+        <masterLabel>Commit (Add With System Permissions)</masterLabel>
+        <translation><!-- Commit (Add With System Permissions) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Commit (Delete)</masterLabel>
+        <translation><!-- Commit (Delete) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Commit (Full)</masterLabel>
+        <translation><!-- Commit (Full) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Commit (Retrieve Only)</masterLabel>
+        <translation><!-- Commit (Retrieve Only) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Commit (Selective)</masterLabel>
+        <translation><!-- Commit (Selective) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Deploy</masterLabel>
+        <translation><!-- Deploy --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Validate</masterLabel>
+        <translation><!-- Validate --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
