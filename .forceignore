@@ -1,0 +1,5 @@
+**/jsconfig.json
+**/.eslintrc.json
+**/*.ts
+**/__tests__/**
+package.xml
